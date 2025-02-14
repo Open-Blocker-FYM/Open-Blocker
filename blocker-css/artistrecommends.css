@@ -1,4 +1,5 @@
 /*artistrecommends*/
+[data-test-id="ALBUM_PROMO"],
 [data-test-id="SIMPLE_ALBUM_PROMO"] {
     display: none;
 }
